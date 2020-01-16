@@ -1,4 +1,4 @@
-# KDD2019_p2r
+# WWW2020_p2r
 Install required dependencies
 
 1. Follow the instructions on [https://pytorch.org/get-started/previous-versions/](https://pytorch.org/get-started/previous-versions/) to install pyTorch 1.2.0
