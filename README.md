@@ -29,3 +29,14 @@ $ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--c
 ```
 In the case of training on CPU or not wanting to use Apex, please comment out the line 45 and 46 in `train.py`.
 
+## Citation
+Please cite our paper if you use the code.
+```
+@inproceedings{shao2020paper2repo,
+  title={paper2repo: GitHub Repository Recommendation for Academic Papers},
+  author={Shao, Huajie and Sun, Dachun and Wu, Jiahao and Zhang, Zecheng and Zhang, Aston and Yao, Shuochao and Liu, Shengzhong and Wang, Tianshi and Zhang, Chao and Abdelzaher, Tarek},
+  booktitle={Proceedings of The Web Conference 2020},
+  pages={629--639},
+  year={2020}
+}
+```
